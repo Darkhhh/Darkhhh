@@ -41,9 +41,13 @@
 
 * [Крестики-нолики](https://github.com/Darkhhh/TicTacToeWPF)
 
+---
+
 ### Другие работы
 
 * [Класс для представления чисел в idle играх](https://github.com/Darkhhh/BIgNumbers)
+
+---
 
 ### Основные используемые языки
 
