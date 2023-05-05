@@ -12,8 +12,7 @@
   <a href="https://www.github.com/darkhhh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
   </a>                         
-  <a href="https://t.me/whoooopyyy"
- target="_blank" rel="noreferrer">
+  <a href="https://t.me/whoooopyyy" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/82178107/236275482-94404eb3-457f-45ec-b76b-4a6dd7ced9b4.png" width="32" height="32" />
   </a>
 </p>
@@ -36,6 +35,12 @@
 </p>
 
 ## Работы
+
+### Unity
+
+* [Поиск сокровищ](https://github.com/Darkhhh/Test-Task-MVC-Zenject): MVC + DI (Zenject)
+* [Поиск сокровищ](https://github.com/Darkhhh/ECS-Test-Task): ECS (Entitas)
+
 
 ### WPF приложения
 
