@@ -40,6 +40,7 @@
 ### WPF приложения
 
 * [Крестики-нолики](https://github.com/Darkhhh/TicTacToeWPF)
+* [Морской бой](https://github.com/Darkhhh/BattleshipsWPF)
 
 ---
 
