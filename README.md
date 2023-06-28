@@ -40,6 +40,7 @@
 
 * [Поиск сокровищ](https://github.com/Darkhhh/Test-Task-MVC-Zenject): MVC + DI (Zenject)
 * [Поиск сокровищ](https://github.com/Darkhhh/ECS-Test-Task): ECS (Entitas)
+* [Жизнь](https://github.com/Darkhhh/Life): ECS (LeoECS Lite)
 
 
 ### WPF приложения
@@ -52,6 +53,7 @@
 ### Другие работы
 
 * [Класс для представления чисел в idle играх](https://github.com/Darkhhh/BIgNumbers)
+* [Фреймворк для моделирования мобильных сетей](https://github.com/Darkhhh/MobileNetworkFramework)
 
 ---
 
