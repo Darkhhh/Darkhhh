@@ -12,7 +12,7 @@
   <a href="https://www.github.com/darkhhh" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
   </a>                         
-  <a href="https://t.me/whoooopyyy" target="_blank" rel="noreferrer">
+  <a href="https://t.me/mikov_alexander" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/82178107/236275482-94404eb3-457f-45ec-b76b-4a6dd7ced9b4.png" width="32" height="32" />
   </a>
 </p>
@@ -33,6 +33,8 @@
   </a>
 
 </p>
+
+[Foundational C# with Microsoft Certification Exam](https://www.freecodecamp.org/certification/fccbda22c1f-0823-4a14-b8c9-f298cc98fb46/foundational-c-sharp-with-microsoft)
 
 ## Работы
 
