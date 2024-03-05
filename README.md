@@ -38,27 +38,25 @@
 
 ## Работы
 
-* [ECS Framework](https://github.com/Darkhhh/MobileNetworkECS)
+### Games
 
-### Опубликованные
 * Puzzle Blocks: [Репозиторий](https://github.com/Darkhhh/PuzzleBlocksTest) и [публикация](https://darkhhh.itch.io/puzzle-blocks)
-
-### Unity
-
 * [Поиск сокровищ](https://github.com/Darkhhh/Test-Task-MVC-Zenject): MVC + DI (Zenject)
 * [Поиск сокровищ](https://github.com/Darkhhh/ECS-Test-Task): ECS (Entitas)
 * [Жизнь](https://github.com/Darkhhh/Life): ECS (LeoECS Lite)
 
 
-### WPF приложения
+### Desktop приложения
 
+* [OneDayTasks](https://github.com/Darkhhh/OneDayTasks) : аскетичное приложения для сегодняшних дел
 * [Крестики-нолики](https://github.com/Darkhhh/TicTacToeWPF)
 * [Морской бой](https://github.com/Darkhhh/BattleshipsWPF)
 
----
 
-### Другие работы
+### Разное
 
+* [ECS Framework](https://github.com/Darkhhh/MobileNetworkECS)
+* [ResearchConfigurationReader](https://github.com/Darkhhh/ResearchConfiguration)
 * [Класс для представления чисел в idle играх](https://github.com/Darkhhh/BIgNumbers)
 * [Фреймворк для моделирования мобильных сетей](https://github.com/Darkhhh/MobileNetworkFramework)
 
